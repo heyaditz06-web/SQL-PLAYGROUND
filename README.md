@@ -188,9 +188,9 @@ SQLPlayground/
 
 | Name | Roll No. |
 |---|---|
-| Aditya Pal (Team Leader) | 2301331690007 |
-| Harshit Nainwal | 2301331690016 |
-| Vishal Kumar | 2301331690050 |
+| Aditya Kumar | 2401331690002 |
+| Ankit Kumar  | 2401331690006 |
+
 
 **Supervisor:** Ms. Aditee Mattoo, Assistant Professor, Department of Computer Science & Engineering, Noida Institute of Engineering and Technology, Greater Noida.
 
